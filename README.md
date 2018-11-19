@@ -1,7 +1,7 @@
 # DonorChoose
 EDA &amp; Recommendation on DonorChoose Kaggle problem
 
-This repository pertains to the DonorChoose Kaggle dataset and problem whose objective is to
+This repository pertains to the DonorChoose Kaggle challenge whose objective is to
 identify a solution to DonorChoose's problem of creating more repeat donors.
 
 The overall approach to the problem was to characterize repeat donors so as to be able
