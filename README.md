@@ -17,4 +17,7 @@ The repository includes:
 Please note that a visual manual of the schema (including all tables in the database used in this analysis)
 is included as the last slide (appendix exhibit 1) in the slide deck.
 
+Please note: certain elements of the ipynb file don't render properly in the Github UI (hyperlink references)
+and it is therefore recommended that the workbook is downloaded and viewed through the jupyter viewer. 
+
 link to Tableau workbook: https://drive.google.com/file/d/1K6rLNLc58Y0luuJH3vBEDfCI91ua5ARu/view?usp=sharing
