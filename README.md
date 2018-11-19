@@ -13,3 +13,6 @@ The repository includes:
 * A jupyter notebook which includes the code that is the basis of this analysis, 
 * A Tableau workbook which can be viewed on Tableau Reader (which is a free program), and;
 * A slide deck summarizing the findings. 
+
+Please note that a visual manual of the schema (including all tables in the database used in this analysis)
+is included as the last slide (appendix exhibit 1) in the slide deck.
