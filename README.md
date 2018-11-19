@@ -12,8 +12,9 @@ The repository includes:
 
 * A jupyter notebook which includes the code that is the basis of this analysis, 
 * A link to a Tableau workbook which can be viewed on Tableau Reader (which is a free program), and;
-      link to workbook: https://drive.google.com/file/d/1K6rLNLc58Y0luuJH3vBEDfCI91ua5ARu/view?usp=sharing
 * A slide deck summarizing the findings. 
 
 Please note that a visual manual of the schema (including all tables in the database used in this analysis)
 is included as the last slide (appendix exhibit 1) in the slide deck.
+
+link to Tableau workbook: https://drive.google.com/file/d/1K6rLNLc58Y0luuJH3vBEDfCI91ua5ARu/view?usp=sharing
